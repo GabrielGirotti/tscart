@@ -5,7 +5,7 @@ Utilizando hooks nativos como useState y useEffect, hooks personalizados para li
 
 # Deploy
 
-En proceso...
+https://ts-cart.netlify.app/
 
 ## Comenzando 🚀
 
